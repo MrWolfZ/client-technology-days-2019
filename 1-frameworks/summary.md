@@ -6,7 +6,7 @@
 | testing                |    -    |    ?    |   ++  |  +  |
 | runtime performance    |    --   |    ?    |   +   |  ++ |
 | complexity             |    --   |    +    |   ++  |  +  |
-| tooling                |    +    |    +    |   ++  |  -  |
+| tooling                |    +    |    -    |   ++  |  -  |
 | community              |    -    |    -    |   ++  |  ++ |
 
 ### But what about X?
