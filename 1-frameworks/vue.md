@@ -7,10 +7,11 @@
 - passionate community
 - caters to designers as well as developers
 - easily configurable build process
+- great tooling (e.g. Vue DevTools)
 
 ### Lowlights
 
-- tooling support could be better (especially for TypeScript)
+- IDE support could be better (especially for TypeScript)
 
 ### Use when:
 

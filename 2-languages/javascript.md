@@ -18,4 +18,4 @@
 - you are creating a prototype
 - you love writing tests
 - you like driving without a seat belt on
-- you feel like throwing up when seeing `A<B<C<D<E>>>>`
+- your favorite ice cream is plain Vanilla

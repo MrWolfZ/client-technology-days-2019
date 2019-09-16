@@ -3,7 +3,7 @@
 ### Highlights
 
 - library character, i.e. very composable
-- excellent development experience (with TypeScript/TSX)
+- excellent development experience & tools (especially with TypeScript/TSX)
 - strong functional concepts
 - good runtime performance
 - maintained by a large company with good development process (e.g. RFCs)
