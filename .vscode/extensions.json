@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "octref.vetur",
-    "aureliaeffect.aurelia"
+    "aureliaeffect.aurelia",
+    "jpoissonnier.vscode-styled-components"
   ]
 }

@@ -22,7 +22,6 @@
     "redux": "^4.0.4",
     "rxjs": "^6.5.3",
     "styled-components": "^4.3.2",
-    "typescript": "^3.5.1",
     "vue": "^2.6.10",
     "vuex": "^3.1.1",
     "zone.js": "~0.9.1"
@@ -31,8 +30,11 @@
     "@testing-library/react": "^9.1.4",
     "@types/jest": "^24.0.18",
     "@types/react": "^16.9.2",
+    "@types/styled-components": "^4.1.19",
     "@vue/test-utils": "^1.0.0-beta.29",
     "aurelia-bootstrapper": "^2.3.3",
-    "aurelia-testing": "^1.0.0"
+    "aurelia-testing": "^1.0.0",
+    "typescript": "^3.5.1",
+    "vue-template-compiler": "^2.6.10"
   }
 }
