@@ -14,7 +14,6 @@
 - for optimal runtime performance needs additional build plugin
 - limited framework support
 - needs IDE plugin for syntax highlighting
-- sometimes requires naming gymnastics to prevent name collisions
 
 ### Use when:
 
