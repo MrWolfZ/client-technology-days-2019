@@ -19,5 +19,5 @@
 ### Use when:
 
 - you prefer functions over objects
-- you don't want a library to define your architecture
-- you liked performing magic tricks as a child (or as an adult for that matter)
+- you are not afraid of thunking your way around some obstacles
+- you like to fold things
