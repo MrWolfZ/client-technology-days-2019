@@ -11,7 +11,9 @@
 
 ### Lowlights
 
-- IDE support could be better (especially for TypeScript)
+- component declaration structure takes some getting used to
+- doesn't play nicely with TypeScript
+- IDE support could be better
 
 ### Use when:
 

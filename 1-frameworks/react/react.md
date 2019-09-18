@@ -4,6 +4,7 @@
 
 - library character, i.e. very composable
 - excellent development experience & tools (especially with TypeScript/TSX)
+- refactoring is a breeze
 - strong functional concepts
 - good runtime performance
 - maintained by a large company with good development process (e.g. RFCs)

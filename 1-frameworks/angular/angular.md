@@ -11,6 +11,7 @@
 
 - steep learning curve
 - large runtime overhead and generally leads to large/slow applications
+- redundant module concept
 - induces component fatigue
 
 ### Use when:
