@@ -5,7 +5,7 @@
 - often only simple setup required
 - very extensible with large ecosystem of plugins
 - excellent tree-shaking and multiple common chunks
-- some wrappers with more advanced features available (e.g. TDSX, microbundle)
+- some wrappers with more advanced features available (e.g. TSDX, microbundle)
 
 ### Lowlights
 
